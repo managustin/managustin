@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 🦑 Organized chaos
 ### Here, I upload stuff while I learn and experiment. Sometimes useful code, sometimes pure chaos.  
 #### 🌱 Exploring web development, databases, and whatever comes my way.  
-#### Someday there will be projects, and someday there will be *organized* projects.
+#### Someday there will be projects, and someday there will be projects that actually make sense.
