@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Here, I upload stuff while I learn and experiment.  
-#### 🌱 Exploring web development, databases, and whatever comes my way.  
-#### Someday there will be projects, and someday there will be projects that actually make sense.
+### Estudiante de Ingeniería en Informática  
+Explorando desarrollo web, bases de datos y distintas tecnologías mientras aprendo.  
+Acá subo ejercicios, pruebas y proyectos en proceso. Con el tiempo, algunos tendrán más forma y sentido.
+
